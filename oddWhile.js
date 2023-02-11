@@ -1,6 +1,5 @@
-var i = 1;
-
-while (i <= 19) {
-  console.log(i);
-  i += 2;
+let nombre = 1;
+while (nombre <= 19) {
+  console.log(nombre);
+  nombre += 2;
 }
